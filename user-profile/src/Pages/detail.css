@@ -1,0 +1,3 @@
+.card{
+    display: grid;grid-template-columns: 500px 2fr;justify-content: center;justify-items: center;
+}
